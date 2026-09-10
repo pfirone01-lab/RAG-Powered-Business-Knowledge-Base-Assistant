@@ -1,0 +1,45 @@
+TaskFlow — Pricing and Plans
+
+Starter Plan — $0/month (Free)
+Designed for individuals and very small teams getting started.
+- Up to 5 team members
+- Up to 10 active Projects
+- Guest Access limited to 5 guests total
+- 25MB max file upload size
+- Time Tracking included, but CSV export of time reports is not available
+- Basic Automations: up to 3 active automations per Project
+- Community support only (no live chat or email support)
+
+Growth Plan — $12/user/month (billed annually) or $15/user/month (billed monthly)
+Designed for growing teams that need more structure and integrations.
+- Unlimited team members
+- Unlimited active Projects
+- Unlimited Guest Access
+- 25MB max file upload size
+- Time Tracking with full CSV export via Reports
+- Up to 15 active Automations per Project
+- Slack, Google Calendar, and GitHub integrations included
+- Email support with a 24-hour response target
+
+Enterprise Plan — Custom pricing, contact sales
+Designed for larger organizations with advanced security and support needs.
+- Everything in Growth, plus:
+- 100MB max file upload size
+- Unlimited Automations per Project
+- Custom onboarding and a dedicated Customer Success Manager
+- Single Sign-On (SSO) and SCIM user provisioning
+- Priority support with a 4-hour response target and phone support option
+- Custom data retention policies (Starter and Growth retain exported data access for 30 days after cancellation; Enterprise contracts can extend this)
+
+Add-ons (available on Growth and Enterprise only)
+- Advanced Reporting Add-on: $4/user/month — adds custom dashboards and cross-project reporting beyond the default Reports tab
+- Extra Storage Add-on: $10/month per additional 50GB of file storage beyond the plan default (Growth includes 100GB pooled storage; Enterprise includes 500GB pooled storage)
+
+Billing Notes
+- All paid plans include a 14-day free trial, no credit card required to start the trial.
+- Annual billing is discounted approximately 20 percent compared to monthly billing on the Growth plan.
+- Downgrading from Growth to Starter is only possible if your current usage fits within Starter's limits (5 members, 10 active projects); otherwise you'll be prompted to archive projects or remove members first.
+- Nonprofit and education discounts of 30 percent are available on the Growth plan upon verification.
+
+Payment Methods
+TaskFlow accepts all major credit cards and, for Enterprise customers only, wire transfer or invoicing with Net 30 terms.

@@ -1,0 +1,37 @@
+TaskFlow — Frequently Asked Questions
+
+What is TaskFlow?
+TaskFlow is a project management and team collaboration tool designed for small to mid-sized teams. It combines task tracking, kanban boards, time tracking, and team messaging into a single workspace, so teams don't need to switch between separate apps for planning, execution, and communication.
+
+Who is TaskFlow for?
+TaskFlow is built for teams of 2 to 200 people across software development, marketing, design, and operations. It is not designed for large enterprises with more than 500 users, though an Enterprise tier is available for those cases with custom onboarding.
+
+How do I create a new project?
+From the main dashboard, click "New Project" in the top left corner. You can choose a blank project, or start from a template such as Sprint Planning, Content Calendar, or Client Onboarding. Templates come pre-loaded with common task lists and board columns.
+
+Can I invite external collaborators, like clients or contractors?
+Yes. TaskFlow supports Guest Access, which lets you invite people outside your organization to view or comment on specific projects without giving them access to your full workspace. Guest seats are limited to 5 on the Starter plan and unlimited on the Growth and Enterprise plans.
+
+Does TaskFlow integrate with other tools?
+TaskFlow integrates natively with Slack, Google Calendar, GitHub, and Zapier. The GitHub integration lets you link commits and pull requests directly to TaskFlow tasks, automatically moving a task to "In Review" when a linked pull request is opened.
+
+What happens if I exceed my plan's user limit?
+TaskFlow will not automatically charge you for extra seats. Instead, you'll see a notification banner prompting you to upgrade, and new team members cannot be added until you either upgrade your plan or remove an existing member.
+
+Is there a mobile app?
+Yes, TaskFlow has native iOS and Android apps. The mobile app supports task creation, commenting, and notifications, but kanban board editing (dragging cards between columns) is currently only available on the desktop and web versions.
+
+How do I cancel my subscription?
+Go to Workspace Settings, then Billing, then click "Cancel Subscription." Your workspace remains active in read-only mode for 30 days after cancellation, giving you time to export your data before it is permanently deleted.
+
+Can I export my data?
+Yes. Under Workspace Settings, then Data Export, you can export all projects, tasks, and comments as a CSV or JSON file. Time tracking data is exported separately as a CSV under Reports, then Export.
+
+What is the difference between a Task and a Milestone?
+A Task is a single unit of work assigned to one or more people, with a due date and status. A Milestone is a marker for a significant point in a project's timeline, like "Beta Launch" or "Client Sign-off," and does not have an assignee — it exists to group related tasks and track overall project progress.
+
+Does TaskFlow support recurring tasks?
+Yes. When creating or editing a task, you can set a recurrence pattern (daily, weekly, monthly, or custom) under the "Repeat" option. Recurring tasks automatically generate a new instance once the current one is marked complete.
+
+I forgot my password. How do I reset it?
+On the login page, click "Forgot Password" and enter the email associated with your account. You will receive a reset link valid for 24 hours. If you don't receive the email, check your spam folder or contact support at support@taskflow.example.com.

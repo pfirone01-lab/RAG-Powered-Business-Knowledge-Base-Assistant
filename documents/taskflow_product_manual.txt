@@ -1,0 +1,31 @@
+TaskFlow — Product Manual
+
+1. Overview
+TaskFlow organizes work into Workspaces, Projects, Boards, and Tasks. A Workspace is the top-level container for your organization and holds all Projects, team members, and shared settings. Each Workspace can contain unlimited Projects on the Growth and Enterprise plans, or up to 10 active Projects on the Starter plan.
+
+2. Boards and Views
+Every Project includes a default Kanban Board with three columns: To Do, In Progress, and Done. Columns can be renamed, reordered, or added freely. In addition to the Kanban view, each Project can be displayed as a List view, a Calendar view, or a Timeline (Gantt-style) view. Switching views does not create separate data — all views read from the same underlying tasks, so changes made in one view appear instantly in the others.
+
+3. Tasks
+Each Task has the following core fields: Title, Description, Assignee(s), Due Date, Priority (Low, Medium, High, Urgent), Status, and Labels. Tasks can have Subtasks, which are smaller checklist-style items nested inside a parent task. Subtasks do not have their own due dates or assignees; they inherit the parent task's due date for planning purposes.
+
+4. Time Tracking
+Time Tracking is built into every Task via a built-in timer (Start/Stop) or manual time entry. Tracked time rolls up automatically to the Project level and can be viewed in the Reports tab. Time Tracking is available on all plans, but exporting time reports as CSV requires the Growth plan or higher.
+
+5. Automations
+The Automations panel, found under Project Settings, lets you build simple "when X happens, do Y" rules without code. Example: "When a task is moved to Done, notify the task creator in Slack." Automations support triggers based on status changes, due date proximity, and label additions. Each Project can have up to 15 active automations on the Growth plan, and unlimited automations on Enterprise.
+
+6. Permissions and Roles
+TaskFlow has four roles within a Workspace: Owner, Admin, Member, and Guest. Owners have full control including billing and workspace deletion. Admins can manage projects and members but cannot change billing. Members can create and edit tasks within projects they're added to. Guests (see the FAQ document for details on Guest Access) can view and comment but cannot create new tasks or projects.
+
+7. Notifications
+Notifications can be delivered via in-app alerts, email digests, or Slack, configurable per user under Personal Settings, then Notifications. By default, users receive an immediate notification when they are assigned a task or mentioned in a comment, and a daily digest email summarizing due tasks.
+
+8. Search
+The global search bar (keyboard shortcut: Cmd+K or Ctrl+K) searches across task titles, descriptions, comments, and file attachments within your Workspace. Search results can be filtered by Project, Assignee, or date range.
+
+9. File Attachments
+Files can be attached directly to tasks by dragging and dropping, or by linking a file from Google Drive or Dropbox if those integrations are connected. The maximum direct upload size is 25MB per file on the Starter and Growth plans, and 100MB per file on Enterprise.
+
+10. Keyboard Shortcuts
+Common shortcuts include: "C" to create a new task from any screen, "/" to open the global search, "E" to edit the currently selected task, and "Esc" to close any open panel without saving changes.
